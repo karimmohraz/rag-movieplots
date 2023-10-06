@@ -9,7 +9,7 @@ This can improve the answer considerably:
 ```
 Question: Tell me about the movie "A Touch of Zen".
 LLaMa2_7b answers by hallucinating:
-A Touch of Zen" is a 2001 Taiwanese film directed by Hou Hsiao-hsien ...
+"A Touch of Zen" is a 2001 Taiwanese film directed by Hou Hsiao-hsien ...
 
 Using RAG the LLaMa2_7b returns the right answer:
 Here\'s what I know about the movie "A Touch of Zen":\n\n* It was released in 1971, directed by King Hu.\n* The plot follows a well-meaning but unambitious scholar and painter named Gu who lives in a remote mountain village in Ming China during the 14th century AD.\n* The story is largely seen through Gu\'s eyes, with a focus on his clumsiness and ineffectualness.
