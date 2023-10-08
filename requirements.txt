@@ -1,0 +1,6 @@
+pandas
+faiss-cpu
+langchain
+sentence_transformers
+gpt4all
+chromadb
