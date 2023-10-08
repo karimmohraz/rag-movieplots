@@ -18,7 +18,7 @@ Here\'s what I know about the movie "A Touch of Zen":\n\n* It was released in 19
 ## Movie Dataset
 [Kaggle dataset](https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots/) containing 35k movie plots
 
-Download [here](https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots/download?datasetVersionNumber=1)
+Download csv [here](https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots/download?datasetVersionNumber=1)
 
 <img src="images/data-card.png" alt="Retrieval Augmented Generation" width="50%" height="auto" class="blog-image">
 
