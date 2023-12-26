@@ -24,3 +24,6 @@ Download csv [here](https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-p
 
 ## Watch the Youtube video
 The jupyter notebook is demoed in this [video](https://www.youtube.com/watch?v=PoZxanevWa4).
+
+## Local LLM
+This demo leverages [GTP4ALL](https://gpt4all.io/index.html): A free-to-use, locally running, privacy-aware chatbot. No GPU or internet required.
